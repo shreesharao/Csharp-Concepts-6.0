@@ -1,3 +1,6 @@
 ﻿Topic 1: Read only properties
 Topic 2: auto property initializers
 Topic 3: Expression-bodied function members
+Topic 4: Using static
+Topic 5: Null-conditional operators
+TOpic 6: String Interpolation

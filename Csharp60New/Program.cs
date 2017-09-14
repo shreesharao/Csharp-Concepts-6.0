@@ -12,7 +12,10 @@ namespace Csharp60New
         {
             //new Topic_1().Entry();
             //new Topic_2().Entry();
-            new Topic_3().Entry();
+            //new Topic_3().Entry();
+            //new Topic_4().Entry();
+            //new Topic_5().Entry();
+            new Topic_6().Entry();
             Console.Read();
         }
     }
