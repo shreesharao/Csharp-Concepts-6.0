@@ -15,7 +15,8 @@ namespace Csharp60New
             //new Topic_3().Entry();
             //new Topic_4().Entry();
             //new Topic_5().Entry();
-            new Topic_6().Entry();
+            //new Topic_6().Entry();
+            new Topic_7().Entry();
             Console.Read();
         }
     }

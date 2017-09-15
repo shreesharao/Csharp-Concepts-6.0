@@ -4,3 +4,4 @@ Topic 3: Expression-bodied function members
 Topic 4: Using static
 Topic 5: Null-conditional operators
 TOpic 6: String Interpolation
+Topic 7: Exception Filters

@@ -15,6 +15,14 @@ namespace Csharp60New
         public void Entry()
         {
             Console.WriteLine($"FullName {FullName}");
+            Console.WriteLine($"Average:{GetAverage():F2}");
+            FormattableString str = $"Shreesha:{FullName}";
+            Console.WriteLine(string.Format("{0,6}", System.Globalization.CultureInfo.CreateSpecificCulture("de-de"), str.Format, str.GetArguments()));
+        }
+
+        public double GetAverage()
+        {
+            return 2.34567;  //:)simply
         }
     }
 }
