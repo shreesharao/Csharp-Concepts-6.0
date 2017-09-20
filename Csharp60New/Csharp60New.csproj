@@ -37,12 +37,17 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Topic 1.cs" />
+    <Compile Include="Topic 10.cs" />
+    <Compile Include="Topic 11.cs" />
+    <Compile Include="Topic 12.cs" />
     <Compile Include="Topic 2.cs" />
     <Compile Include="Topic 3.cs" />
     <Compile Include="Topic 4.cs" />
     <Compile Include="Topic 5.cs" />
     <Compile Include="Topic 6.cs" />
     <Compile Include="Topic 7.cs" />
+    <Compile Include="Topic 8.cs" />
+    <Compile Include="Topic 9.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="IndexToTopics.txt" />

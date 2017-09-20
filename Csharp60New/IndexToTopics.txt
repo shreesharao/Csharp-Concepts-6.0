@@ -5,3 +5,8 @@ Topic 4: Using static
 Topic 5: Null-conditional operators
 TOpic 6: String Interpolation
 Topic 7: Exception Filters
+Topic 8: nameof Expressions
+Topic 9: Await in Catch and Finally blocks
+Topic 10: Index Initializers
+Topic 11: Extension Add methods in collection initializers
+Topic 12: Improved overload resolution
