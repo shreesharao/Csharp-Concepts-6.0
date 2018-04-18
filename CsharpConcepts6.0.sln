@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.10
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp60New", "Csharp60New\Csharp60New.csproj", "{D3887627-5846-495F-B6EA-FFC1566DB834}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpConcepts6.0", "src\CsharpConcepts6.0.csproj", "{D3887627-5846-495F-B6EA-FFC1566DB834}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
